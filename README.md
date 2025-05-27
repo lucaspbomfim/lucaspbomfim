@@ -62,8 +62,3 @@ Always eager to tackle new technical challenges and collaborate on impactful pro
 
 ---
 
-<div align="center">
-  
-![snake gif](https://github.com/lucaspbomfim/lucaspbomfim/blob/output/github-contribution-grid-snake.gif)
-
-</div>
